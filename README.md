@@ -5,13 +5,13 @@ The following program was developed as the final project for the Structured Prog
 
 The project applies several concepts of the C programming language, including:
 
--Code modularization
--Structures (struct)
--File handling
--Loop structures
--Conditional statements
--String and array manipulation
--Complex mathematical calculations
+* Code modularization
+* Structures (struct)
+* File handling
+* Loop structures
+* Conditional statements
+* String and array manipulation
+* Complex mathematical calculations
 
 
 
@@ -56,11 +56,11 @@ Total annual salary – Total annual deductions
 The tax rate is determined according to the following table:
 
 
-0 – 21453.24		   0%
-21453.25 – 32151.48	 7.5%
-32151.49 – 42869.16	15.0%
-42869.17 – 53565.72	22.5%
-Above 53565.73		27.5%
+* 0 – 21453.24		   0%
+* 21453.25 – 32151.48	 7.5%
+* 32151.49 – 42869.16	15.0%
+* 42869.17 – 53565.72	22.5%
+* Above 53565.73	  27.5%
 
 
 
