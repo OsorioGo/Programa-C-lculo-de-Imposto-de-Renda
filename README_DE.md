@@ -1,7 +1,7 @@
 EINKOMMENSTEUER-BERECHNUNGSPROGRAMM
 
 
-Das folgende Programm wurde als Abschlussprojekt für den Kurs Strukturierte Programmierung in C an der Fatec entwickelt.
+Das folgende Programm wurde als Abschlussprojekt für den Kurs Strukturierte Programmierung in C entwickelt.
 
 Das Projekt verwendet mehrere Konzepte der Programmiersprache C, darunter:
 
