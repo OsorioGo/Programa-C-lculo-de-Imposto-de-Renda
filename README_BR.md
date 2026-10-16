@@ -1,7 +1,7 @@
 PROGRAMA DE CALCULO DE IMPOSTO DE RENDA
 
 
-O programa a seguir foi realizado como trabalho final da disciplina de Programação Estrutural em C da Fatec.
+O programa a seguir foi realizado como trabalho final da disciplina de Programação Estrutural em C.
 
 O projeto utiliza diversos conceitos da linguagem C, incluindo:
 
