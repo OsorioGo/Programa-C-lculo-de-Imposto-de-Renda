@@ -1,7 +1,7 @@
 INCOME TAX CALCULATION PROGRAM
 
 
-The following program was developed as the final project for the Structured Programming in C course at Fatec.
+The following program was developed as the final project for the Structured Programming in C course.
 
 The project applies several concepts of the C programming language, including:
 
